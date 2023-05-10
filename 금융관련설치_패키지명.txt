@@ -1,0 +1,26 @@
+talib -- TALIB 다운로드
+exchange-calendars
+
+pykrx
+finance-datareader
+yfinance
+pandas-datareader
+dart-fss
+OpenDartReader
+
+Backtesting
+zipline  --XXX
+finterstellar
+
+finplot
+plotly
+cufflinks
+chart-studio
+mplfinance
+bokeh
+
+
+cd venv
+cd fint.....
+
+
