@@ -1,0 +1,9 @@
+https://biz.chosun.com/stock/stock_general/2023/04/13/HCRJDLM6GJEIBHSMKP5OYCBHDE/?utm_source=naver&utm_medium=original&utm_campaign=biz
+
+- 버트
+https://www.aitimes.kr/news/articleView.html?idxno=13117
+https://moondol-ai.tistory.com/463
+
+-클루버트
+https://github.com/KLUE-benchmark/KLUE
+https://huggingface.co/bert-base-uncased
