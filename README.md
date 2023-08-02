@@ -1,4 +1,8 @@
 # Data Scientist
+Data Scientist를 희망합니다
+✍새로운 것을 배우는 것을 좋아합니다
+🙋‍♀️정답을 찾을 때까지 끈질기게 파고 들기가 특기입니다!
+
 
 🛠 Tech Stack 🛠
 
