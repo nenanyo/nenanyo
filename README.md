@@ -1,9 +1,10 @@
-# Data Scientist
-Data Scientist를 희망합니다
+# Data Analyst
+
+Data Analyst를 희망합니다
 
 새로운 것을 배우는 것을 좋아합니다
 
-특기는 정답을 찾을 때까지 끈질기게 매달리기입니다.
+어려움에 맞닥뜨려도 쉽게 좌절하지 않습니다.
 
 
 
