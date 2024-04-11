@@ -1,6 +1,6 @@
-# Data Analyst
+# Data Specialist
 
-Data Analyst를 희망합니다
+
 
 새로운 것을 배우는 것을 좋아합니다
 
