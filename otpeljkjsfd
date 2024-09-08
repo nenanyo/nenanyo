@@ -1,0 +1,283 @@
+[33mcommit e6cc893689ead89d379b1c027fa9526fba8223dd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_gitignore[m[33m, [m[1;31morigin/update_gitignore[m[33m)[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Thu Aug 22 14:56:52 2024 +0900
+
+    commit
+
+[33mcommit 3793e77039bf37fd9429b8d3d973a24077b921e9[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Thu Aug 22 14:07:01 2024 +0900
+
+    commit
+
+[33mcommit 226f52ad1e3553f2ed44a6dd32843ebc3ebfda1c[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Thu Aug 22 13:38:14 2024 +0900
+
+    commit
+
+[33mcommit 26ebcf922f470024ab6aa0eefc065d9b3423985b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Wed Aug 21 15:10:10 2024 +0900
+
+    Django commit
+
+[33mcommit 17caa720a99ff918dc24d200baa4e42816feaaf6[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Wed Aug 21 15:06:11 2024 +0900
+
+    django_practice_blog commit
+
+[33mcommit a88ff94e5491768d71a8c2b352de54942e40e839[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Wed Aug 21 10:34:47 2024 +0900
+
+    commit
+
+[33mcommit e0950456c4aff47478ed1c417eed17d673dbcbef[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Sat Aug 17 13:50:16 2024 +0900
+
+    add practical-statics
+
+[33mcommit a73ecc0ab02c56fe0ba609fde84ac7d4686982f4[m
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Thu Aug 15 15:58:07 2024 +0900
+
+    Rename 구별_인구비교.ipynb to population.ipynb
+
+[33mcommit 6b69c4adc2d8d3300092d1c50389eecd38982a55[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Thu Aug 15 15:56:35 2024 +0900
+
+    renaming
+
+[33mcommit cc1f1094537fe437d9c90f3ac08ed66a21850f5d[m
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Thu Aug 15 15:39:50 2024 +0900
+
+    Update and rename kospidf.csv to kospidf.csv
+
+[33mcommit 8bd956af0b735dc826c2398ad1c3d258d00d0a8a[m
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Thu Aug 15 15:26:21 2024 +0900
+
+    Update and rename kospidf.csv to kospidf.csv
+
+[33mcommit e9832d21d735bbac19d58e2b619bdd4fb328c2e2[m
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Thu Aug 15 15:22:06 2024 +0900
+
+    Rename naver_news_crawler.py to naver_news_crawler.py
+
+[33mcommit bdb64a86d6397350cba235da0f37577ed87b7b63[m
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Wed Apr 17 13:58:24 2024 +0900
+
+    Rename digit_recognizer.ipynb to Practice/Deep_Learning/digit_recognizer.ipynb
+
+[33mcommit 50f17f6529d5c21aaf7c62608aa0a424d5df90e2[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Wed Apr 17 13:40:26 2024 +0900
+
+    obesity commit
+
+[33mcommit b923c8034f8bda611d6db0877c231fc1fe4fff14[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Mon Apr 15 15:27:05 2024 +0900
+
+    obey
+
+[33mcommit 2f5b23259ec356e487dcd665dad2f5444f410a6a[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Mon Apr 15 15:24:41 2024 +0900
+
+    obey
+
+[33mcommit 80430e9157a961522962a35909b39b44bbca31d6[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Mon Apr 15 15:22:46 2024 +0900
+
+    obey
+
+[33mcommit 9018b07316373923731e0177cb6e27c470e97154[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Mon Apr 15 15:18:33 2024 +0900
+
+    obesity
+
+[33mcommit af9f808192af400556bb8c2cb0e4c6c9f5a3231b[m
+Merge: 450833c 8804631
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Mon Apr 15 14:36:08 2024 +0900
+
+    Merge branch 'master' of https://github.com/seok-young/seok-young
+
+[33mcommit 450833c6faed1b4a9a9c8a225171f56aaed3c35e[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Mon Apr 15 14:35:32 2024 +0900
+
+    obesity
+
+[33mcommit 8804631218ee242643bd58d3202dbc8efa7e286c[m
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Mon Apr 15 13:23:51 2024 +0900
+
+    Colab을 통해 생성됨
+
+[33mcommit 51e540fc7fe17e9d7175f6f8c570be8e2a309a77[m
+Merge: ae8ebe6 0baab79
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Thu Apr 11 16:46:24 2024 +0900
+
+    Merge branch 'master' of https://github.com/seok-young/seok-young
+
+[33mcommit ae8ebe64249a5cf0c5d63b43b5aa53ad34972f21[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Thu Apr 11 16:45:46 2024 +0900
+
+    commit
+
+[33mcommit 0baab791f6d57fdc54c408ccfed773c837b1ba9f[m
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Thu Apr 11 12:36:49 2024 +0900
+
+    Update README.md
+
+[33mcommit 87720ee9c72d2f6bdfd4bd1a8d636e8b114e63dd[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Wed Apr 10 17:48:35 2024 +0900
+
+    basic_time_series_commit
+
+[33mcommit 5930043af6718bf4625dda2620cace5222e3431d[m
+Merge: 3f637f1 da767c0
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Wed Apr 10 13:42:06 2024 +0900
+
+    Merge branch 'master' of https://github.com/seok-young/seok-young
+
+[33mcommit 3f637f1abdf8b5bd71b7557d551d792257c162d6[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Wed Apr 10 13:41:16 2024 +0900
+
+    commit
+
+[33mcommit da767c0c89ec2ac300bbc378e691fb80a05aacaf[m
+Merge: 96ffc7a 9803432
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Wed Apr 10 13:34:36 2024 +0900
+
+    Merge pull request #5 from seok-young/develop
+    
+    Merge pull request #4 from seok-young/master
+
+[33mcommit 98034324bc5988987e6f7c7ff144be1da38651c8[m
+Merge: 99ea081 96ffc7a
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Tue Apr 9 14:45:11 2024 +0900
+
+    Merge pull request #4 from seok-young/master
+    
+    pull request
+
+[33mcommit 96ffc7a636f33206d3ee9c4e164fb8ee09036108[m
+Merge: 9599df8 99ea081
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Tue Apr 9 14:39:25 2024 +0900
+
+    Merge pull request #3 from seok-young/develop
+    
+    commit
+
+[33mcommit 9599df8e819fa014465b0f95f026b41e2d5595ad[m
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Mon Apr 8 16:15:36 2024 +0900
+
+    Update README.md
+
+[33mcommit 99ea081f74203cd60113ceb0e38d3f7227bd066a[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Mon Apr 8 16:14:13 2024 +0900
+
+    commit
+
+[33mcommit 0115ff4d30f3d3dd6e7dcfbcf5470ac7f508e5c5[m
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Wed Mar 27 13:51:51 2024 +0900
+
+    Update README.md
+
+[33mcommit dfe6e3a703f50470ef21cec277c04971abb2e4aa[m
+Merge: 256619b fe8c55f
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Thu Mar 21 16:34:52 2024 +0900
+
+    Merge pull request #2 from seok-young/develop
+    
+    Develop
+
+[33mcommit fe8c55f17fc40198ffebd92875e2f002517ec6bb[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Thu Mar 21 16:30:18 2024 +0900
+
+    Lv_2
+
+[33mcommit 794fe815d698e6a50910e7e9f425443b7ddd5b79[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Thu Mar 21 16:04:32 2024 +0900
+
+    Lv_1
+
+[33mcommit 9df446606593b18e032bf428163ef17c151c0cc7[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Thu Mar 21 15:51:54 2024 +0900
+
+    Lv_0
+
+[33mcommit 256619b1dd71e60bb1a1279c02b631774734b962[m
+Merge: 38a9b07 79b4ef4
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Thu Mar 21 15:27:52 2024 +0900
+
+    Merge pull request #1 from seok-young/develop
+    
+    네이버 뉴스 크롤링
+
+[33mcommit 79b4ef4d898eb07acb961aea888e5f53e5877706[m
+Author: Seok-Young <YOUR_EMAIL>
+Date:   Thu Mar 21 15:13:40 2024 +0900
+
+    네이버 뉴스 크롤링
+
+[33mcommit 38a9b0770f20afff76c9f79cfa99c4103d483beb[m
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Sun Aug 6 13:03:00 2023 +0900
+
+    Add files via upload
+
+[33mcommit 261fd87aa41ac7f9e18b8349aa7da1486f081135[m
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Sun Aug 6 13:02:00 2023 +0900
+
+    Delete Project/카드소비_패턴분석/static/vendors directory
+
+[33mcommit ca610dd4ffc91f9d98ddba2a8d8a0c83b0fe7757[m
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Sun Aug 6 13:01:02 2023 +0900
+
+    Add files via upload
+
+[33mcommit c22e71cb0bd14edf6fa71be79601bd0e5072e10a[m
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Sun Aug 6 12:59:43 2023 +0900
+
+    Add files via upload
+
+[33mcommit 15ee4a9dd3476c55daab6d61131c9bc055daf4d8[m
+Author: seokyoung <132960301+seok-young@users.noreply.github.com>
+Date:   Sun Aug 6 12:57:00 2023 +0900
+
+    Create text
+
+[33m
