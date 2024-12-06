@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 requirements.txt
 venv
+.env
 =======
 /// 파일이름 적어놓기
 >>>>>>> 7810ef2a61b42fd6394e54b3615c9f8110800b15
