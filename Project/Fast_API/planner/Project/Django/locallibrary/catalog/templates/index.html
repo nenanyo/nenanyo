@@ -1,0 +1,53 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+
+<!-- Main -->
+<div class="col-lg-8">
+  <div class="row">      
+
+            <!-- First Card -->
+            <div class="card">                      
+              <div class="card-body pb-0">
+                <h5 class="card-title">Welcome to Public Library</h5>        
+                
+                  <div class="post-item clearfix">
+                    <h4>인사말</h4>
+                    <p>인사말</p>
+                  </div>
+                         
+  
+                         
+              </div>
+            </div><!-- End First Card -->
+
+  <!-- Second Card -->
+  <div class="card">            
+    <div class="card-body pb-0">
+      <h5 class="card-title">Library Collection</h5>                       
+        <h6>The library has the following record counts</h6>
+          <ul>
+            <li><strong>Books:</strong> {{ num_books }}</li>
+            <li><strong>Copies:</strong> {{ num_instances }}</li>
+            <li><strong>Copies available:</strong> {{ num_instances_available }}</li>
+            <li><strong>Authors:</strong> {{ num_authors }}</li>
+          </ul>            
+        
+      
+
+    </div>
+  </div><!-- End Second Card -->
+
+</div><!-- End Right side columns -->
+
+</div>
+</section>
+
+</main><!-- End #main -->
+  <p>
+    You have visited this page {{ num_visits }}{% if num_visits == 1 %} time
+    {% else %} times{% endif %}.
+  </p>
+
+
+{% endblock %}
