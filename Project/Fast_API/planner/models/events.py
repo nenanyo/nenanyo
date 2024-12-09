@@ -69,6 +69,7 @@ from pydantic import BaseModel
 # 
 #======================= beanie(mongoDB ODM) ====================
 class Event(Document):
+    creater: Optional[str] = None
     title: str
     image: str
     description: str
@@ -86,7 +87,12 @@ class Event(Document):
                 }
             }
 
+    class Settings:
+        name = "events"
+
+
 class EventUpdate(BaseModel):
+    creater: Optional[str] = None
     title: Optional[str] = None  # 기본값 None 설정
     image: Optional[str] = None  # 기본값 None 설정
     description: Optional[str] = None  # 기본값 None 설정

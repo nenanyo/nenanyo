@@ -1,40 +1,43 @@
+import uvicorn
 from fastapi import FastAPI
 from fastapi.responses import RedirectResponse
-from typing import List
-from database.connection import conn, Settings
-from contextlib import asynccontextmanager
-from sqlmodel import SQLModel, create_engine
+from fastapi.middleware.cors import CORSMiddleware
 
-from routes.users import user_router
+from database.connection import Settings
 from routes.events import event_router
+from routes.users import user_router
 
-import uvicorn
-
-# # lifespan 이벤트 핸들러 정의
-# @asynccontextmanager
-# async def lifespan(app: FastAPI):
-#     # 애플리케이션 시작 시 연결
-#     conn()
-#     yield
-#     # 애플리케이션 종료 시 처리할 작업
-#     pass
-
-# FastAPI 애플리케이션 객체 생성
-# app = FastAPI(lifespan=lifespan)
 app = FastAPI()
+
 settings = Settings()
 
-# 라우트 등록
-app.include_router(user_router,  prefix="/user")
+# register origins
+
+origins = ["*"]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# Register routes
+
+app.include_router(user_router, prefix="/user")
 app.include_router(event_router, prefix="/event")
+
 
 @app.on_event("startup")
 async def init_db():
     await settings.initialize_database()
 
+
 @app.get("/")
 async def home():
     return RedirectResponse(url="/event/")
 
+
 if __name__ == '__main__':
-    uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)
+    uvicorn.run("main:app", host="0.0.0.0", port=8080, reload=True)
